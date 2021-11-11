@@ -5,7 +5,7 @@
 
 - 🔭 Estou trabalhando na Amware [https: //www.amware. com.br/empresa.html](https://www.amware.com.br/empresa.html)
 
-- 🤝 Em parceiria com a Infoprime Sistemas [https://infoprimesistemas.com/](https://infoprimesistemas. com /)
+- 🤝 Em parceiria com a Infoprime Sistemas [https://infoprimesistemas.com/](https://infoprimesistemas.com/)
 
 - 📫 Meu e-mail **rtbrollo@gmail.com**
 
@@ -28,8 +28,3 @@
   
   
   
-  
-
-  
-  
-
