@@ -4,7 +4,7 @@
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=rbrollo&label=Profile%20views&color=0e75b6&style=flat" alt = "rbrollo" /> </p>
 
 
-- 🤝 Desenvolvedor fullstack em parceria com a Infoprime Sistemas [https://infoprimesistemas.com/](https://infoprimesistemas.com/)
+- 🤝 Desenvolvedor Fullstack na Infoprime Sistemas [https://infoprimesistemas.com/](https://infoprimesistemas.com/)
 
 - 📫 Meu e-mail **rtbrollo@gmail.com**
 
