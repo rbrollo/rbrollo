@@ -1,5 +1,5 @@
 <h1 align = "center"> Bem vindo, eu sou Rogério </h1>
-<h3 align = "center"> Estudante de Análise e Desenvolvimento de Sistemas. </h3>
+<h3 align = "center"> Desenvolvedor Fullstack Laravel e Vuejs. </h3>
 
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=rbrollo&label=Profile%20views&color=0e75b6&style=flat" alt = "rbrollo" /> </p>
 
