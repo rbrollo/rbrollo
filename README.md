@@ -11,7 +11,7 @@
 - 👨‍💻QA na Cast Group
 [https://www.castgroup.com.br/](https://www.castgroup.com.br/)
 - 🤝 Dev
-FullStack em parceira com a Davs Sistemas
+FullStack (Django e React) em parceira com a Mango Software House
 - 📫 Meu e-mail **rtbrollo@gmail.com**
 
 <h3 align="left">Conecte-se a mim:</h3>
