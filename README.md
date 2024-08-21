@@ -11,7 +11,7 @@
 - 👨‍💻QA na Cast Group
 [https://www.castgroup.com.br/](https://www.castgroup.com.br/)
 - 🤝 Dev
-FullStack (Django e React) em parceira com a Mango Software House
+FullStack (Django e React) em parceira com a Mango Software House <br>
 Freelancer Php (Laravel) e Vue.js
 - 📫 Meu e-mail **rtbrollo@gmail.com**
 
