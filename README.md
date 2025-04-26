@@ -1,5 +1,5 @@
 <h1 align="center">Bem vindo, eu sou Rogério Brollo</h1>
-<h3 align="center">Desenvolvedor Fullstack Laravel e Vuejs.</h3>
+<h3 align="center">Desenvolvedor Fullstack .Net e Angular.</h3>
 
 <p align="left">
   <img
@@ -8,11 +8,11 @@
   />
 </p>
 
-- 👨‍💻QA na Cast Group
+- 👨‍💻Cast Group
 [https://www.castgroup.com.br/](https://www.castgroup.com.br/)
 - 🤝 Dev
 FullStack (Django e React) em parceira com a Mango Software House <br>
-Freelancer Php (Laravel) e Vue.js
+Freelancer Php (Laravel) e Vue.js ou .Net e Angular
 - 📫 Meu e-mail **rtbrollo@gmail.com**
 
 <h3 align="left">Conecte-se a mim:</h3>
@@ -30,6 +30,33 @@ Freelancer Php (Laravel) e Vue.js
 
 <h3 align="left">Tecnologias:</h3>
 <p align="left">
+  <a href="https://dotnet.microsoft.com/pt-br/" rel="nofollow" target="_blank">
+    <img
+      src="https://icon.icepanel.io/Technology/svg/.NET-core.svg"
+      alt="dotNet"
+      width="40"
+      height="40"
+      style="max-width: 100%"
+    />
+  </a>
+  <a href="https://dotnet.microsoft.com/pt-br/languages/csharp" rel="nofollow" target="_blank">
+    <img
+      src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg"
+      alt="cSharp"
+      width="40"
+      height="40"
+      style="max-width: 100%"
+    />
+  </a>
+  <a href="https://angular.dev/" rel="nofollow" target="_blank">
+    <img
+      src="https://icon.icepanel.io/Technology/svg/Angular.svg"
+      alt="cSharp"
+      width="40"
+      height="40"
+      style="max-width: 100%"
+    />
+  </a>
   <a href="https://getbootstrap.com" rel="nofollow" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -84,7 +111,7 @@ Freelancer Php (Laravel) e Vue.js
     target="_blank"
   >
     <img
-      src="https://camo.githubusercontent.com/42dfd0950d93092d82d677877fe87d5bab1e2acccc1110bf0f9dd755988ccb7e/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3330333232392f6d6963726f736f66742d73716c2d7365727665722d6c6f676f2e737667"
+      src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000"
       alt="mssql"
       width="40"
       height="40"
@@ -100,42 +127,58 @@ Freelancer Php (Laravel) e Vue.js
       height="40"
     />
   </a>
+  <a href="https://dbeaver.io/" target="_blank" rel="noreferrer">
+    <img
+      src="https://icon.icepanel.io/Technology/svg/DBeaver.svg"
+      alt="DBeaver"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://icon.icepanel.io/Technology/svg/Docker.svg"
+      alt="Docker"
+      width="40"
+      height="40"
+    />
+  </a>
 
   <a href="https://laravel.com/" rel="noreferrer" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg "
+      src="https://icon.icepanel.io/Technology/svg/Laravel.svg"
       alt="laravel "
-      width=" 40 "
-      height=" 40 "
+      width="40"
+      height="40"
     />
   </a>
   <a href="https://materializecss.com/" rel="noreferrer" target="_blank">
     <img
       src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg "
-      alt=" materialize "
-      width=" 40 "
-      height=" 40 "
+      alt="materialize"
+      width="40"
+      height="40"
     />
   </a>
   <a href="https://www.php.net" rel="noreferrer" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg "
-      alt=" php "
-      width=" 40 "
-      height=" 40 "
+      alt="php"
+      width="40"
+      height="40"
     />
   </a>
   <a href="https://vuejs.org/" rel="noreferrer" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg "
-      alt="vuejs "
-      width=" 40 "
-      height=" 40 "
+      alt="vuejs"
+      width="40"
+      height="40"
     />
   </a>
   <a href="https://git-scm.com/" rel="nofollow" target="_blank">
     <img
-      src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667"
+      src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"
       alt="git"
       width="40"
       height="40"
@@ -154,7 +197,7 @@ Freelancer Php (Laravel) e Vue.js
   </a>
   <a href="https://postman.com" rel="nofollow" target="_blank">
     <img
-      src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667"
+      src="https://img.icons8.com/?size=100&id=QEQQKirln6Tf&format=png&color=000000"
       alt="postman"
       width="40"
       height="40"
